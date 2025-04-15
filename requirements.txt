@@ -1,0 +1,14 @@
+# requirements.txt
+# pip install -r requirements.txt
+# pip install torch --index-url https://download.pytorch.org/whl/cpu
+Flask>=2.0
+openai>=1.0
+transformers>=4.0
+# torch>=1.8 # Installed separately for CPU-only (see notes)
+sentence-transformers>=2.0
+scipy>=1.0
+langdetect>=1.0
+python-dotenv>=0.15
+sentencepiece>=0.1.91 
+protobuf>=3.20.0 
+gunicorn
