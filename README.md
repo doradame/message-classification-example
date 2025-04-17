@@ -16,6 +16,10 @@ It supports multilingual input (🇬🇧 English and 🇮🇹 Italian) and outpu
 - Confidence score
 - Detected language
 
+
+🔗 **Related article**: Want the full explanation, walkthrough, and behind-the-scenes logic?  
+Check out the companion article on MojaLab 👉 [Taming the Text Chaos – An AI Adventure in SMS Classification](https://mojalab.com/taming-the-text-chaos-an-ai-adventure-in-sms-classification-2/)
+
 ---
 
 ## ⚙️ Installation
